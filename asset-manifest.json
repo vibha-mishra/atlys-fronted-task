@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atlys-fronted-task/static/css/main.b7718991.css",
+    "main.js": "/atlys-fronted-task/static/js/main.fe130f63.js",
+    "static/js/453.dfb89e73.chunk.js": "/atlys-fronted-task/static/js/453.dfb89e73.chunk.js",
+    "index.html": "/atlys-fronted-task/index.html",
+    "main.b7718991.css.map": "/atlys-fronted-task/static/css/main.b7718991.css.map",
+    "main.fe130f63.js.map": "/atlys-fronted-task/static/js/main.fe130f63.js.map",
+    "453.dfb89e73.chunk.js.map": "/atlys-fronted-task/static/js/453.dfb89e73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7718991.css",
+    "static/js/main.fe130f63.js"
+  ]
+}
