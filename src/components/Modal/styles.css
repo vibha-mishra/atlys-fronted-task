@@ -1,0 +1,11 @@
+.modal-overlay {
+  @apply fixed inset-0 flex items-center justify-center bg-opacity-50 bg-gray-500;
+}
+
+.modal-container {
+  @apply bg-primary-light rounded-lg max-w-md w-full;
+}
+
+.modal-close-button {
+  @apply flex items-center justify-end pt-3 pr-3 cursor-pointer;
+}

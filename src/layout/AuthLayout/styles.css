@@ -1,0 +1,23 @@
+.auth-layout-container {
+  @apply bg-primary-light p-8 rounded-lg shadow-lg max-w-md w-full;
+}
+
+.auth-heading {
+  @apply text-sm font-bold text-secondary-text mb-2 text-center;
+}
+
+.auth-title {
+  @apply text-lg font-bold text-white mb-6 text-center;
+}
+
+.auth-footer {
+  @apply text-left mt-2 font-medium text-sm;
+}
+
+.auth-footer-text {
+  @apply text-gray-400;
+}
+
+.auth-footer-link {
+  @apply text-gray-100 hover:text-gray-500;
+}

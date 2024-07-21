@@ -1,0 +1,29 @@
+/* src/styles/createPostStyles.css */
+.create-post-container {
+  @apply bg-primary-light p-6 rounded-lg shadow-lg w-full mt-4 border-rem0_094 border-primary-border;
+}
+
+.create-post-title {
+  @apply text-lg font-medium text-white mb-6;
+}
+
+.create-post-form {
+  @apply flex;
+}
+
+.create-post-textarea-wrapper {
+  @apply bg-textarea-placeholder rounded-l-lg pt-3 pl-3;
+}
+
+.create-post-textarea {
+  @apply w-full px-3 py-2 text-gray-100 rounded-r-lg  border-primary-border bg-textarea-placeholder focus:outline-none;
+  @layer focus:shadow-outline;
+}
+
+.create-post-button-wrapper {
+  @apply w-full flex items-end justify-end;
+}
+
+.create-post-button {
+  @apply text-xl font-sans mt-4 max-w-32;
+}

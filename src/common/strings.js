@@ -1,0 +1,17 @@
+export const text = {
+  login: "Login",
+  signUp: "SIGN UP",
+  welcomeBack: "WELCOME BACK",
+  loginIntoYourAcc: "Log into your account",
+  forgotPassword: "Forgot Password?",
+  notRegistered:"Not registered yet? ",
+  registerHere: "Register →",
+  alreadyHaveAcc: "Already have an account? ",
+  loginHere: "Login →", 
+  createAnAcc:"Create an account to continue",
+  helloJane: "Hello Jane",
+  howAreYouDoing:"How are you doing today? Would you like to share something with the community 🤗",
+  createPost : "Create Post",
+  post: "Post",
+  comments: "Comments",
+};

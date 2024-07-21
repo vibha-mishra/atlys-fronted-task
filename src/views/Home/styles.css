@@ -1,0 +1,15 @@
+.home-container {
+  @apply text-gray-100 mt-14;
+}
+
+.greeting-title {
+  @apply font-medium text-2xl;
+}
+
+.greeting-text {
+  @apply text-base;
+}
+
+.posts-list {
+  @apply space-y-4 mb-5;
+}

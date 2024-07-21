@@ -1,0 +1,39 @@
+.post-container {
+  @apply bg-primary-light p-6 mt-6 rounded-lg shadow-lg max-w-rem38 w-full border-rem0_094 border-primary-border;
+}
+
+.post-header {
+  @apply flex items-center justify-between;
+}
+
+.post-user-info {
+  @apply flex;
+}
+
+.post-user-avatar {
+  @apply mr-2;
+}
+
+.post-user-name {
+  @apply font-medium text-base text-primary-text;
+}
+
+.post-time {
+  @apply font-medium text-sm text-primary-placeholder;
+}
+
+.post-content {
+  @apply bg-textarea-placeholder p-4 rounded-lg text-gray-300 flex mt-4;
+}
+
+.post-feeling {
+  @apply bg-textarea-placeholder rounded-l-lg pt-2 min-w-10;
+}
+
+.post-comments {
+  @apply flex items-center mt-2;
+}
+
+.post-comment-text {
+  @apply ml-2 font-medium text-sm text-primary-placeholder;
+}

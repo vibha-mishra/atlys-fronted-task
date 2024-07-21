@@ -1,0 +1,32 @@
+.input-container {
+  @apply mb-4;
+}
+
+.input-label-container {
+  @apply flex items-center justify-between mb-2;
+}
+
+.input-label {
+  @apply block text-gray-300 text-sm font-bold;
+}
+
+.input-forgot-password {
+  @apply text-right;
+}
+
+.input-forgot-password-link {
+  @apply text-sm text-gray-400 hover:text-gray-300;
+}
+
+.input-field-container {
+  @apply relative;
+}
+
+.input-field {
+  @apply w-full px-3 py-2 text-gray-200 rounded focus:outline-none  bg-primary-light border-rem0_094 border-primary-border;
+  @layer focus:shadow-outline;
+}
+
+.input-toggle {
+  @apply absolute inset-y-0 right-0 pr-3 flex items-center text-gray-400 cursor-pointer;
+}
